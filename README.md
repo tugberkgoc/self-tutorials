@@ -1,9 +1,12 @@
-# HackerRank Algorithms And Data Structures (JavaScript)
+# Self Tutorials
 [![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/tugberkgoc/hacker-rank-tutorials/releases)
 <!--[![Travis](https://img.shields.io/travis/Homebrew/brew.svg)](https://travis-ci.org/Homebrew/brew)-->
 <!--[![Codecov](https://img.shields.io/codecov/c/github/Homebrew/brew.svg)](https://codecov.io/gh/Homebrew/brew)-->
 
 These are algorithm which also includes their time complexity result in code.
+
+## Introduction
+This repository includes different set of Algorithms And Data Structures in different languages such as JavaScript, Python and Java.
 
 ### Cloning
 
@@ -13,8 +16,8 @@ If you want to participate and contribute, clone the repository.
 git clone https://github.com/tugberkgoc/hacker-rank-tutorials.git
 ```
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+<!-- * [Maven](https://maven.apache.org/) - Dependency Management -->
+<!-- * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds -->
 
 ## Contributing
 
