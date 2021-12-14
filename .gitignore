@@ -107,3 +107,6 @@ yarn-error.log*
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### Java Class ###
+*.class
